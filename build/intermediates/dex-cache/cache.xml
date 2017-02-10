@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ymontero\Downloads\Dragobject\ElevationDrag\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\ymontero\Downloads\Dragobject\ElevationDrag\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_0703fa30ef3ffb0a081fb994fe735d1032847eef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ymontero\Downloads\Dragobject\ElevationDrag\Application\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\ymontero\Downloads\Dragobject\ElevationDrag\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_65837f6717e49ee6c9c2c827b801e58ce0e50616\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\ymontero\Downloads\Dragobject\ElevationDrag\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_6bc42ab64885149e433e96937938cecda90bf748\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ymontero\Downloads\Dragobject\ElevationDrag\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\ymontero\Downloads\Dragobject\ElevationDrag\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_2fdf9341cc8432ffaa9cd5fecb7e91178f377fc8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ymontero\Downloads\Dragobject\ElevationDrag\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f95931d7b07a6dded3422d7fdf07358f0e87d296">
+        <dex dex="C:\Users\ymontero\Downloads\Dragobject\ElevationDrag\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_72d00bbdf84f5f376025ff7923d0de40a8ca9aa0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ymontero\Downloads\Dragobject\ElevationDrag\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="C:\Users\ymontero\Downloads\Dragobject\ElevationDrag\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.1_3032303dfff9bb38348d5003000bb5f74ae91420\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ymontero\Downloads\Dragobject\ElevationDrag\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\ymontero\Downloads\Dragobject\ElevationDrag\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_c506ef2b15307380be97c14128f467d8e1a89ca0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ymontero\Downloads\Dragobject\ElevationDrag\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\ymontero\Downloads\Dragobject\ElevationDrag\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_b20026fe5586a71427cac939a6885024f503fa42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ymontero\Downloads\Dragobject\ElevationDrag\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\ymontero\Downloads\Dragobject\ElevationDrag\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_4dce32b7ad88b64187327c205de8e972fbdc786c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ymontero\Downloads\Dragobject\ElevationDrag\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\ymontero\Downloads\Dragobject\ElevationDrag\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_ce28d2061da3ae25dbd820593884c4c0cbba4226\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ymontero\Downloads\Dragobject\ElevationDrag\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\ymontero\Downloads\Dragobject\ElevationDrag\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_1582dd88a115d74d2cdd62acb9af1724bd5e976a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ymontero\Downloads\Dragobject\ElevationDrag\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="62aedd27de85b15f8b60f31c388b6af8425786ee">
+        <dex dex="C:\Users\ymontero\Downloads\Dragobject\ElevationDrag\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5571d8362e2ac46c489553115c838130447e04bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ymontero\Downloads\Dragobject\ElevationDrag\Application\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
+        <dex dex="C:\Users\ymontero\Downloads\Dragobject\ElevationDrag\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_8bdf72415dc27edb4dacbc0707872d53e9c57f72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ymontero\Downloads\Dragobject\ElevationDrag\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\ymontero\Downloads\Dragobject\ElevationDrag\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_0791576a8f72cb2d3c0f0618dcc3fa1da7ba3c41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ymontero\Downloads\Dragobject\ElevationDrag\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\ymontero\Downloads\Dragobject\ElevationDrag\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_3d5d0300c5a990707ea1f1e4d8a0110130359bfb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ymontero\Downloads\Dragobject\ElevationDrag\Application\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9abf11d546d9e0ee82da86df608ced7a961b76ac">
+        <dex dex="C:\Users\ymontero\Downloads\Dragobject\ElevationDrag\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-25.0.1_adeb9dfb3df48e2aebeec1fa1c56d3f6f59959db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ymontero\Downloads\Dragobject\ElevationDrag\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\ymontero\Downloads\Dragobject\ElevationDrag\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_5b3fcc5b94b461c4dcca144a6a1e63a237e88bd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ymontero\Downloads\Dragobject\ElevationDrag\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\ymontero\Downloads\Dragobject\ElevationDrag\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_590875aed0110ff387cf7dbdce01455c1501266e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ymontero\Downloads\Dragobject\ElevationDrag\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\ymontero\Downloads\Dragobject\ElevationDrag\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_2c4547e1064840c7760c11c745eba50a2fbdb9fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ymontero\Downloads\Dragobject\ElevationDrag\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\ymontero\Downloads\Dragobject\ElevationDrag\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_d360f79dbe2fd571402adf44cd9598000cbeb109\classes.dex" />
+    </item>
+
+</items>
